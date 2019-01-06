@@ -1,0 +1,20 @@
+C:\Users\iii\source\repos\作業4_謝銘陸_冷飲店訂購單_行銷活動\作業4_謝銘陸_冷飲店訂購單_行銷活動\bin\Debug\作業4_謝銘陸_冷飲店訂購單_行銷活動.exe.config
+C:\Users\iii\source\repos\作業4_謝銘陸_冷飲店訂購單_行銷活動\作業4_謝銘陸_冷飲店訂購單_行銷活動\bin\Debug\作業4_謝銘陸_冷飲店訂購單_行銷活動.exe
+C:\Users\iii\source\repos\作業4_謝銘陸_冷飲店訂購單_行銷活動\作業4_謝銘陸_冷飲店訂購單_行銷活動\bin\Debug\作業4_謝銘陸_冷飲店訂購單_行銷活動.pdb
+C:\Users\iii\source\repos\作業4_謝銘陸_冷飲店訂購單_行銷活動\作業4_謝銘陸_冷飲店訂購單_行銷活動\obj\Debug\作業4_謝銘陸_冷飲店訂購單_行銷活動.csprojResolveAssemblyReference.cache
+C:\Users\iii\source\repos\作業4_謝銘陸_冷飲店訂購單_行銷活動\作業4_謝銘陸_冷飲店訂購單_行銷活動\obj\Debug\作業4_謝銘陸_冷飲店訂購單_行銷活動.Form1.resources
+C:\Users\iii\source\repos\作業4_謝銘陸_冷飲店訂購單_行銷活動\作業4_謝銘陸_冷飲店訂購單_行銷活動\obj\Debug\作業4_謝銘陸_冷飲店訂購單_行銷活動.Properties.Resources.resources
+C:\Users\iii\source\repos\作業4_謝銘陸_冷飲店訂購單_行銷活動\作業4_謝銘陸_冷飲店訂購單_行銷活動\obj\Debug\作業4_謝銘陸_冷飲店訂購單_行銷活動.csproj.GenerateResource.cache
+C:\Users\iii\source\repos\作業4_謝銘陸_冷飲店訂購單_行銷活動\作業4_謝銘陸_冷飲店訂購單_行銷活動\obj\Debug\作業4_謝銘陸_冷飲店訂購單_行銷活動.csproj.CoreCompileInputs.cache
+C:\Users\iii\source\repos\作業4_謝銘陸_冷飲店訂購單_行銷活動\作業4_謝銘陸_冷飲店訂購單_行銷活動\obj\Debug\作業4_謝銘陸_冷飲店訂購單_行銷活動.exe
+C:\Users\iii\source\repos\作業4_謝銘陸_冷飲店訂購單_行銷活動\作業4_謝銘陸_冷飲店訂購單_行銷活動\obj\Debug\作業4_謝銘陸_冷飲店訂購單_行銷活動.pdb
+C:\Users\GN180822F1\Desktop\新增資料夾\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\bin\Debug\csharp進階作業_謝銘陸_冷飲店訂購單_行銷活動.exe.config
+C:\Users\GN180822F1\Desktop\新增資料夾\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\bin\Debug\csharp進階作業_謝銘陸_冷飲店訂購單_行銷活動.exe
+C:\Users\GN180822F1\Desktop\新增資料夾\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\bin\Debug\csharp進階作業_謝銘陸_冷飲店訂購單_行銷活動.pdb
+C:\Users\GN180822F1\Desktop\新增資料夾\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\obj\Debug\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動.csprojAssemblyReference.cache
+C:\Users\GN180822F1\Desktop\新增資料夾\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\obj\Debug\csharp進階作業_謝銘陸_冷飲店訂購單_行銷活動.Form1.resources
+C:\Users\GN180822F1\Desktop\新增資料夾\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\obj\Debug\csharp進階作業_謝銘陸_冷飲店訂購單_行銷活動.Properties.Resources.resources
+C:\Users\GN180822F1\Desktop\新增資料夾\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\obj\Debug\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動.csproj.GenerateResource.cache
+C:\Users\GN180822F1\Desktop\新增資料夾\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\obj\Debug\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動.csproj.CoreCompileInputs.cache
+C:\Users\GN180822F1\Desktop\新增資料夾\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\obj\Debug\csharp進階作業_謝銘陸_冷飲店訂購單_行銷活動.exe
+C:\Users\GN180822F1\Desktop\新增資料夾\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\csharp進階作業 _謝銘陸_冷飲店訂購單_行銷活動\obj\Debug\csharp進階作業_謝銘陸_冷飲店訂購單_行銷活動.pdb
